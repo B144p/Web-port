@@ -1,18 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d09a001.css",
-    "main.js": "/static/js/main.8e8b2108.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "main.css": "/static/css/main.8781ca71.css",
+    "main.js": "/static/js/main.79a2be8c.js",
+    "static/js/787.e8a52378.chunk.js": "/static/js/787.e8a52378.chunk.js",
     "static/media/logo_kmitl.png": "/static/media/logo_kmitl.ffdccb2cf1c0e64f5e1a.png",
-    "static/media/qr_line.jpg": "/static/media/qr_line.7708da42ab23118ffd46.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Bot-game01.png": "/static/media/Bot-game01.358a487984260f0e2e36.png",
+    "static/media/Bot-game02.png": "/static/media/Bot-game02.73e986f155a15f3c0a2c.png",
+    "static/media/py-after-convert.png": "/static/media/py-after-convert.80312e2056b0550e51f8.png",
+    "static/media/BTCUSDT-1hr.png": "/static/media/BTCUSDT-1hr.7ab52092a68bfdf199c7.png",
+    "static/media/Bot-game04.png": "/static/media/Bot-game04.259d360eaec7ada104b9.png",
+    "static/media/PineScript.png": "/static/media/PineScript.3078b15f3851ee1e6081.png",
+    "static/media/Bot-game-code02.png": "/static/media/Bot-game-code02.2ee57264443ad17afed8.png",
+    "static/media/Bot-game-code01.png": "/static/media/Bot-game-code01.f39787cb5710d1e8eee9.png",
+    "static/media/mern-delete.png": "/static/media/mern-delete.0118f39f9592df93ee5c.png",
+    "static/media/mern-home-guest.png": "/static/media/mern-home-guest.43f493f9de1c9c599e92.png",
+    "static/media/mern-home-login.png": "/static/media/mern-home-login.05b2c468a8acd647866c.png",
+    "static/media/mern-edit.png": "/static/media/mern-edit.4a1926d8ec31724c43c1.png",
+    "static/media/BotTrade_02.png": "/static/media/BotTrade_02.a0dfcf48a881255e5f5e.png",
+    "static/media/mern-create.png": "/static/media/mern-create.de3a1671b7d5f2f4b69d.png",
     "index.html": "/index.html",
-    "main.0d09a001.css.map": "/static/css/main.0d09a001.css.map",
-    "main.8e8b2108.js.map": "/static/js/main.8e8b2108.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.8781ca71.css.map": "/static/css/main.8781ca71.css.map",
+    "main.79a2be8c.js.map": "/static/js/main.79a2be8c.js.map",
+    "787.e8a52378.chunk.js.map": "/static/js/787.e8a52378.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d09a001.css",
-    "static/js/main.8e8b2108.js"
+    "static/css/main.8781ca71.css",
+    "static/js/main.79a2be8c.js"
   ]
 }
