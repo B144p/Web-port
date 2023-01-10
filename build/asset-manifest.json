@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8781ca71.css",
-    "main.js": "/static/js/main.79a2be8c.js",
+    "main.js": "/static/js/main.893b8692.js",
     "static/js/787.e8a52378.chunk.js": "/static/js/787.e8a52378.chunk.js",
     "static/media/logo_kmitl.png": "/static/media/logo_kmitl.ffdccb2cf1c0e64f5e1a.png",
     "static/media/Bot-game01.png": "/static/media/Bot-game01.358a487984260f0e2e36.png",
@@ -10,6 +10,7 @@
     "static/media/BTCUSDT-1hr.png": "/static/media/BTCUSDT-1hr.7ab52092a68bfdf199c7.png",
     "static/media/Bot-game04.png": "/static/media/Bot-game04.259d360eaec7ada104b9.png",
     "static/media/PineScript.png": "/static/media/PineScript.3078b15f3851ee1e6081.png",
+    "static/media/txt-img.png": "/static/media/txt-img.caf8d4123860a20ce4ad.png",
     "static/media/Bot-game-code02.png": "/static/media/Bot-game-code02.2ee57264443ad17afed8.png",
     "static/media/Bot-game-code01.png": "/static/media/Bot-game-code01.f39787cb5710d1e8eee9.png",
     "static/media/mern-delete.png": "/static/media/mern-delete.0118f39f9592df93ee5c.png",
@@ -20,11 +21,11 @@
     "static/media/mern-create.png": "/static/media/mern-create.de3a1671b7d5f2f4b69d.png",
     "index.html": "/index.html",
     "main.8781ca71.css.map": "/static/css/main.8781ca71.css.map",
-    "main.79a2be8c.js.map": "/static/js/main.79a2be8c.js.map",
+    "main.893b8692.js.map": "/static/js/main.893b8692.js.map",
     "787.e8a52378.chunk.js.map": "/static/js/787.e8a52378.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8781ca71.css",
-    "static/js/main.79a2be8c.js"
+    "static/js/main.893b8692.js"
   ]
 }
